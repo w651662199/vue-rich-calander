@@ -1,0 +1,19 @@
+{
+  "name": "vue-rich-calander",
+  "version": "1.0.0",
+  "description": "selecte multiple period",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [
+    "calander",
+    "datepicker"
+  ],
+  "dependencies": {
+    "vue": "^2.1.0"
+  },
+  "devDependencies": {}
+}
